@@ -1,0 +1,9 @@
+.success{
+    background-color: rgba(155, 245, 155, 0.61);
+    text-align: center;
+    color: green;
+    padding: 70px;
+}
+h1{
+    font-size: 30px;
+}

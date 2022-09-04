@@ -1,0 +1,11 @@
+.warning{
+    background-color: rgba(245, 136, 136, 0.61);
+    text-align: center;
+    padding: 70px;
+    color: red;
+    
+}
+
+h1{
+    font-size: 30px;
+}
